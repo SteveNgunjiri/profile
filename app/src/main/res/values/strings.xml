@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">School project</string>
+    <string-array name="Jobs">
+        <item>Human Resource</item>
+        <item>Cashier</item>
+        <item>Software Developer</item>
+        <item>Accountant</item>
+        <item>Business and Finance</item>
+        <item>Health Science</item>
+        <item>Information Technology</item>
+        <item>Government and Public Administration</item>
+        <item>Agriculture and Natural Resources</item>
+        <item>Audio and Video Technology</item>
+    </string-array>
+    <string-array name="JobID">
+        <item>H.R</item>
+        <item>C.H</item>
+        <item>S.D</item>
+        <item>A.C.C</item>
+        <item>B.F</item>
+        <item>H.S</item>
+        <item>I.T</item>
+        <item>G.P.A</item>
+        <item>A.N.R</item>
+        <item>A.V.T</item>
+    </string-array>
+    <string-array name="JobNeeded">
+        <item>Human Resource</item>
+        <item>Cashier</item>
+        <item>Software Developer</item>
+        <item>Accountant</item>
+        <item>Business and Finance</item>
+        <item>Health Science</item>
+        <item>Information Technology</item>
+        <item>Government and Public Administration</item>
+        <item>Agriculture and Natural Resources</item>
+        <item>Audio and Video Technology</item>
+    </string-array>
+</resources>
